@@ -15,20 +15,16 @@ MonoBehaviour:
   _sequences:
   - Track: 0
     Sprites:
-    - {fileID: -4518905142196718603, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
-    - {fileID: 1388827256136082146, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
-    - {fileID: -8512630961350287599, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
+    - {fileID: -6900095323067147537, guid: 7ed751c24efe4874f9b9070ebbdd786f, type: 3}
+    - {fileID: 7542769302763066440, guid: 7ed751c24efe4874f9b9070ebbdd786f, type: 3}
+    - {fileID: 8422833278461881476, guid: 7ed751c24efe4874f9b9070ebbdd786f, type: 3}
+    - {fileID: 421546310547597968, guid: 7ed751c24efe4874f9b9070ebbdd786f, type: 3}
   - Track: 1
     Sprites:
-    - {fileID: -5999784730088945720, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
-    - {fileID: -1768257639877130321, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
-    - {fileID: -1119438106791553595, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
-    - {fileID: 1197872720715675300, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
-    - {fileID: 4445515700571535067, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
+    - {fileID: -1225781944023599310, guid: 7ed751c24efe4874f9b9070ebbdd786f, type: 3}
+    - {fileID: -6911128412906143865, guid: 7ed751c24efe4874f9b9070ebbdd786f, type: 3}
+    - {fileID: 2814061728314198749, guid: 7ed751c24efe4874f9b9070ebbdd786f, type: 3}
   - Track: 2
     Sprites:
-    - {fileID: -8227197992329598551, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
-    - {fileID: -44722155431805698, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
-    - {fileID: -6479960335103340545, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
-    - {fileID: 4234107120185927604, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
-    - {fileID: 4813209322847733703, guid: 74c8a9493216e0b4db02e6cf8b4a1849, type: 3}
+    - {fileID: -4555469366617344444, guid: 7ed751c24efe4874f9b9070ebbdd786f, type: 3}
+    - {fileID: 7536003855110870943, guid: 7ed751c24efe4874f9b9070ebbdd786f, type: 3}
